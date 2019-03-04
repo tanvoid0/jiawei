@@ -1,0 +1,1263 @@
+[
+  {
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/2MepD95gnnOzPQLpnc_GkvA0DlQ\"",
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/WzP8sf84Ryw62ycBlc-lXB1KiHQ\"",
+        "id": "UExyYzk5aEZJWmhKcGIxSGhsLU5pZjZMdG5IU05sazFwMi41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:20:28.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "Penang is Home.",
+          "description": "This is a view of Penang - home - in the eyes of a kid returning from UK to Malaysia, to remember home forever and always, no matter where they go.\n\n- - -\nAuthor's note:\n\n3 weeks into an 8 minute video and I still am not satisfied because there is supposed to be a 3rd part of this vid but my video editing software (yours truly, windows movie maker) decided to crash on me oh la da dee :( .... Therefore, the abrupt end.\n\nAlso what was supposed to showcase \"home\" suddenly became a 70% food video - cause Penang has amazingly good food and food showcases our insane culture so well!!\n\nSong credits: \nVexento - Home\nhttp:\/\/soundcloud.com\/vexento\nThe Greatest Showman - From Now On (Pitched up)",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mt_dJ0pQxPk\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mt_dJ0pQxPk\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mt_dJ0pQxPk\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mt_dJ0pQxPk\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mt_dJ0pQxPk\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "mt_dJ0pQxPk"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/TXf-P5_SXu4Ft8CtHopDue0tu6E\"",
+        "id": "UExyYzk5aEZJWmhKcGIxSGhsLU5pZjZMdG5IU05sazFwMi4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:20:28.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "KUIH KAPIIIIIIIT | A Malaysian in the UK",
+          "description": "This is what happens when your family sends a parcel of CNY cookies (specifically, yours truly, kuih kapit) 6,500 miles across the world.",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/gvXErSWsedw\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/gvXErSWsedw\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/gvXErSWsedw\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/gvXErSWsedw\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/gvXErSWsedw\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "gvXErSWsedw"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/_Rkk6uSrhlGLVvm9kxZanyfw7W8\"",
+        "id": "UExyYzk5aEZJWmhKcGIxSGhsLU5pZjZMdG5IU05sazFwMi4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:20:28.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "#GE14 || FEELINGS OF A MALAYSIAN IN THE UK",
+          "description": "YOU ALL THE SEMANGAT BES GILER\nI AM SO PROUD TO BE MALAYSIAN",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/bLn9ymHe4wM\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/bLn9ymHe4wM\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/bLn9ymHe4wM\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/bLn9ymHe4wM\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/bLn9ymHe4wM\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "bLn9ymHe4wM"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/7WnZgN5GaDN8l-bTB3TcrZprRus\"",
+        "id": "UExyYzk5aEZJWmhKcGIxSGhsLU5pZjZMdG5IU05sazFwMi41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:20:28.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "STUDENT FOOD || Malaysian in the UK",
+          "description": "Welcome and please enjoy 2 minutes of international student life in the University of South Wales, cooking 7 portions of black pork rice to last my entire week. \n\nSelamat datang (\"welcome\" in Malay) and please enjoy the stay.",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/df-dL4FhyCM\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/df-dL4FhyCM\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/df-dL4FhyCM\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/df-dL4FhyCM\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/df-dL4FhyCM\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "df-dL4FhyCM"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/O8-Hyif4x0-jHDJiU2-vherPa94\"",
+        "id": "UExyYzk5aEZJWmhKcGIxSGhsLU5pZjZMdG5IU05sazFwMi4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:20:28.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "Parcel from Home!!! || MALAYSIAN IN THE UK",
+          "description": "Ultimate unboxing you'll probably ever see because Malaysians love their food.",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/qzQQ6Z1N4Eg\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/qzQQ6Z1N4Eg\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/qzQQ6Z1N4Eg\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/qzQQ6Z1N4Eg\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/qzQQ6Z1N4Eg\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qzQQ6Z1N4Eg"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/t1_cz1cj7h3iOqSY00PtxIKxE6Y\"",
+        "id": "UExyYzk5aEZJWmhKcGIxSGhsLU5pZjZMdG5IU05sazFwMi4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:20:28.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "PENANG FOOD IN 1 MINUTE!!",
+          "description": "The Best of Penang Food - in 1 minute. Whether you are a local or a tourist, see through a Penangiite's eyes on why we're so certain we have the best street \/ hawker food in Malaysia ;)",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/F4W8ayN5N3Q\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/F4W8ayN5N3Q\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/F4W8ayN5N3Q\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/F4W8ayN5N3Q\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2",
+          "position": 5,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "F4W8ayN5N3Q"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/27KPfCXxWUpPHf3tyALy66KnYBc\"",
+    "pageInfo": {
+      "totalResults": 8,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/faeMwwvh-Tb-5tUhyxKYMIc9_ak\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "\"AlexisRen\" by Alexis Hadefi (Unfinished Practice Session \/ Cover)",
+          "description": "I wish to complete this song soon ^_^ It's too beautiful!!\nShot on an absolute beautiful day on the Isle of Man :D",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/9CrxEJRd0Ik\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/9CrxEJRd0Ik\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/9CrxEJRd0Ik\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/9CrxEJRd0Ik\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/9CrxEJRd0Ik\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "9CrxEJRd0Ik"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/n8CpNRXZtwnSa5CHgfXOCCBkE-M\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "CRAZY RICH ASIANS - Yellow \u6d41\u661f Cover (Katherine Ho)",
+          "description": "It was really fun figuring out this song by ear! Kept replaying the song lots and I think this is 90% accurate as the song is, including all the weird 7th and sustain chords - hopefully! \n\nAlso noisy leaf blower from like 2 minutes onwards, and I keep saying \u5c3d as \u4e66 cause the \u7e41\u4f53 mandarin looks like \u66f8 lol (reading the lyrics that's why I keep looking left!!)\n\nP\/S: Not a singer at all, this is just for fun YAY ^_______^ \n\nSong Title: Yellow \/ \u6d41\u661f\nArtist: Katherine Ho\nMovie: Crazy Rich Asians \/ \u760b\u72c2\u4e9e\u6d32\u5bcc\u8c6a\nYear: 2018 \nGuitar Arrangement: Meeee :DD",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/xngjPvevrmw\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/xngjPvevrmw\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/xngjPvevrmw\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/xngjPvevrmw\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/xngjPvevrmw\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xngjPvevrmw"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/TLxAgVbsIZ6YkLPbmz-xqcE-Kd4\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "Moana - How Far I'll Go (MY ORCHESTRAL VERSION)",
+          "description": "I. FINALLY. FINISHED. MAKING THIS!!!!\n\nTo the Moana fandom & my dad, this is my cover of Moana\u2019s \u201cHow Far I\u2019ll Go\u201d, in ORCHESTRAL version!!!\n\nI apologize in advance for the lack of mixing! It\u2019s best when heard with headphones, still though :)\n\nThis was made purely using my imagination, no piano sheets and no instrument samples - so I\u2019m sorry in advance for any mistakes!!\n\nI really loved sampling the sound effects though - Moana\u2019s voice, the Cheehoo, the waveees ^_^ It was fun!!! still this took so looong to make oh goshh\n\n- - -\nIf you like this song and would like to request a song of your own \/ make a contribution for me to go on my volunteering expedition, click here! http:\/\/justgiving.com\/kiddai\n\nHear on soundcloud here!\nhttps:\/\/m.soundcloud.com\/wingardiums\/moana :D",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/x57_av3X74o\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/x57_av3X74o\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/x57_av3X74o\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/x57_av3X74o\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/x57_av3X74o\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "x57_av3X74o"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/12Urjovn0Be9i-GSY7Blcxdxs9w\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "[PRINCE OF STRIDE] Is this song's title \"YOU GOTTA SHOW ME\"? (TRUST)",
+          "description": "**UPDATE 26\/9!! FOUND IT! This kind user has uploaded it onto Youtube! (https:\/\/www.youtube.com\/watch?v=ibw0pH9GV7Q)\nThe song name is called \"TRUST\". What a great name!\nAlso thank you Gem Mitchell for providing us the download link for the .wav file to the original song! You are awesome! (https:\/\/drive.google.com\/open?id=0B_S3RTREVS4NcWI5Y09VWHlaWFE)\n\nThanks everyone for accompanying me on this 'finding-this-song' journey! ^_^ The original song isn't exactly how I pictured the song in my mind, but still though, we found it! Yip yip! :P\n\n- - - - - -\nUPDATE 24\/5: Oh man, the dates for the soundtrack release changed dates again! (http:\/\/anime-music.info\/posa\/): Complete Soundtrack CD 01(June 24, 2016) & Complete Soundtrack CD 02 (July 27, 2016 ). Let's hope this is right now.\n\n- - - - - -\nDoes anyone know the name of the song that goes \"You gotta show me, you make me feel okay\"? I've been trying to find it everywhere but can't seem to find it :O",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/HVLfd42bXB4\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/HVLfd42bXB4\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/HVLfd42bXB4\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/HVLfd42bXB4\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "HVLfd42bXB4"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/My6wOtR176D9zLYwhudxG_n_0AQ\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "HTTYD 2 - Flying With Mother (Piano Cover)",
+          "description": "For Qian, Yunwei and Yunying, who went to see How To Train Your Dragon 2 with me! =D\n\nHear the soundtrack of Flying With Mother here! - http:\/\/www.youtube.com\/watch?v=asjzZ0-Zk8Y\n\nPardon my mistakes - I did it entirely by ear. I really think John Powell made a massive improvement in his score for HTTYD2! This is such a wonderful theme for the movie and I felt like soaring once hearing it ^-^ \n\nThis piano cover is inspired by @supershigi who did her own rendition of this song too! Check it out at http:\/\/www.youtube.com\/watch?v=2fn8wsSyOEQ ! Sorry for the random cuts at some parts though, cause I kinda screwed up, haha.",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/CwiLei07Tss\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/CwiLei07Tss\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/CwiLei07Tss\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/CwiLei07Tss\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "CwiLei07Tss"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/vxML_qxiwaLM8XAfovdhLGrO9_0\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "Eddie Van Der Meer - Path To The Unknown (Cover)",
+          "description": "P\/S: You might want to crank up the volume a little, it's pretty soft! Also, sorry for the buzzy strings and accidental wrong notes, I did this entirely by ear =D\n\nSee the original song here! https:\/\/www.youtube.com\/watch?v=cNbiUMuy6yA\n\nThis is for JY, D, J, A and R - you know who you are! And for Eddie too, for creating the most wonderful fingerstyle piece that absolutely talks to my soul.\n\nI decided to make a cover of this song because, in my entire life, there are only two instrumental tracks who absolutely speak to the depths of my soul - John Powell's \"Forbidden Friendship\" and now.... this song, \"Path To The Unknown\". Eddie Van Der Meer told me a story through this song without words, but he was able to convey it all. I don't know about you guys, but it spoke to me that the unknown was a mysterious thing that, once we try to grasp hold of it, it dissipates into thin air, leaving you to ask yourself questions. It's the mere thought of what was and will be, the mere fantasy of conjuring an image, so powerful that could make you shudder or admire in awe at what would be... or not? That is the unknown. \n\nThere was a time where I was heavily plunged into the unknown, afraid to venture in it. I was scared of what will be, and afraid I would cause more damage if I did anything. Then these guys came, and one by one they pulled me out - oh my gods how they actually changed me into a better person - and this is why I decided to dedicate this to them.\n\nBecause of them, my path to the unknown became clear ^-^",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/taZYPOLEcoQ\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/taZYPOLEcoQ\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/taZYPOLEcoQ\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/taZYPOLEcoQ\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 5,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "taZYPOLEcoQ"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/VNzTeaye9nX4X2yQuaS8syER4js\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "Happy Birthday Christina!! :D - Pyramid And Just A Dream REMIX",
+          "description": "SORRY I'M LATE!!! Dad took us on a trip for two whole days so I couldn't finish this on time! \n\nThis is a vid I made for Christina Grimmie, one of my inspirations. \nIt's a remix of Charice Ft. Iyaz - Pyramid and the cover of Just A Dream by Sam Tsui, Kurt Schneider and yes, Christina Grimmie herself. \nYOU GO CHRIS :D\n\nThis is my first attempt on remixing and I would appreciate any positive\/negative comments on this vid =D \n\nYou can download the mp3 for this here http:\/\/www.mediafire.com\/?ddsb977x7cdgoba \n\nCredits go to Emily for brainblasting me! \n\nOnce again, HAPPY BIRTHDAY CHRISTINA!!",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PpdtV1uLhXw\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PpdtV1uLhXw\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PpdtV1uLhXw\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PpdtV1uLhXw\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PpdtV1uLhXw\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 6,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "PpdtV1uLhXw"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/HEtIbAEzHbf5kWsjjMQvw8oJDmY\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "Behind The Scenes of Guitar Covers | Personal Youtube Poop",
+          "description": "Happens all the time. Special guest at the end.",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/8u0BxjFBvR8\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/8u0BxjFBvR8\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/8u0BxjFBvR8\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/8u0BxjFBvR8\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/8u0BxjFBvR8\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 7,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "8u0BxjFBvR8"
+          }
+        }
+      }
+    ]
+  }
+],[
+  {
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/2MepD95gnnOzPQLpnc_GkvA0DlQ\"",
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/WzP8sf84Ryw62ycBlc-lXB1KiHQ\"",
+        "id": "UExyYzk5aEZJWmhKcGIxSGhsLU5pZjZMdG5IU05sazFwMi41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:20:28.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "Penang is Home.",
+          "description": "This is a view of Penang - home - in the eyes of a kid returning from UK to Malaysia, to remember home forever and always, no matter where they go.\n\n- - -\nAuthor's note:\n\n3 weeks into an 8 minute video and I still am not satisfied because there is supposed to be a 3rd part of this vid but my video editing software (yours truly, windows movie maker) decided to crash on me oh la da dee :( .... Therefore, the abrupt end.\n\nAlso what was supposed to showcase \"home\" suddenly became a 70% food video - cause Penang has amazingly good food and food showcases our insane culture so well!!\n\nSong credits: \nVexento - Home\nhttp:\/\/soundcloud.com\/vexento\nThe Greatest Showman - From Now On (Pitched up)",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mt_dJ0pQxPk\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mt_dJ0pQxPk\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mt_dJ0pQxPk\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mt_dJ0pQxPk\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mt_dJ0pQxPk\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "mt_dJ0pQxPk"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/TXf-P5_SXu4Ft8CtHopDue0tu6E\"",
+        "id": "UExyYzk5aEZJWmhKcGIxSGhsLU5pZjZMdG5IU05sazFwMi4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:20:28.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "KUIH KAPIIIIIIIT | A Malaysian in the UK",
+          "description": "This is what happens when your family sends a parcel of CNY cookies (specifically, yours truly, kuih kapit) 6,500 miles across the world.",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/gvXErSWsedw\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/gvXErSWsedw\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/gvXErSWsedw\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/gvXErSWsedw\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/gvXErSWsedw\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "gvXErSWsedw"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/_Rkk6uSrhlGLVvm9kxZanyfw7W8\"",
+        "id": "UExyYzk5aEZJWmhKcGIxSGhsLU5pZjZMdG5IU05sazFwMi4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:20:28.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "#GE14 || FEELINGS OF A MALAYSIAN IN THE UK",
+          "description": "YOU ALL THE SEMANGAT BES GILER\nI AM SO PROUD TO BE MALAYSIAN",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/bLn9ymHe4wM\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/bLn9ymHe4wM\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/bLn9ymHe4wM\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/bLn9ymHe4wM\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/bLn9ymHe4wM\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "bLn9ymHe4wM"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/7WnZgN5GaDN8l-bTB3TcrZprRus\"",
+        "id": "UExyYzk5aEZJWmhKcGIxSGhsLU5pZjZMdG5IU05sazFwMi41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:20:28.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "STUDENT FOOD || Malaysian in the UK",
+          "description": "Welcome and please enjoy 2 minutes of international student life in the University of South Wales, cooking 7 portions of black pork rice to last my entire week. \n\nSelamat datang (\"welcome\" in Malay) and please enjoy the stay.",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/df-dL4FhyCM\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/df-dL4FhyCM\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/df-dL4FhyCM\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/df-dL4FhyCM\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/df-dL4FhyCM\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "df-dL4FhyCM"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/O8-Hyif4x0-jHDJiU2-vherPa94\"",
+        "id": "UExyYzk5aEZJWmhKcGIxSGhsLU5pZjZMdG5IU05sazFwMi4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:20:28.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "Parcel from Home!!! || MALAYSIAN IN THE UK",
+          "description": "Ultimate unboxing you'll probably ever see because Malaysians love their food.",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/qzQQ6Z1N4Eg\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/qzQQ6Z1N4Eg\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/qzQQ6Z1N4Eg\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/qzQQ6Z1N4Eg\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/qzQQ6Z1N4Eg\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qzQQ6Z1N4Eg"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/t1_cz1cj7h3iOqSY00PtxIKxE6Y\"",
+        "id": "UExyYzk5aEZJWmhKcGIxSGhsLU5pZjZMdG5IU05sazFwMi4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:20:28.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "PENANG FOOD IN 1 MINUTE!!",
+          "description": "The Best of Penang Food - in 1 minute. Whether you are a local or a tourist, see through a Penangiite's eyes on why we're so certain we have the best street \/ hawker food in Malaysia ;)",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/F4W8ayN5N3Q\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/F4W8ayN5N3Q\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/F4W8ayN5N3Q\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/F4W8ayN5N3Q\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2",
+          "position": 5,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "F4W8ayN5N3Q"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/27KPfCXxWUpPHf3tyALy66KnYBc\"",
+    "pageInfo": {
+      "totalResults": 8,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/faeMwwvh-Tb-5tUhyxKYMIc9_ak\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "\"AlexisRen\" by Alexis Hadefi (Unfinished Practice Session \/ Cover)",
+          "description": "I wish to complete this song soon ^_^ It's too beautiful!!\nShot on an absolute beautiful day on the Isle of Man :D",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/9CrxEJRd0Ik\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/9CrxEJRd0Ik\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/9CrxEJRd0Ik\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/9CrxEJRd0Ik\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/9CrxEJRd0Ik\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "9CrxEJRd0Ik"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/n8CpNRXZtwnSa5CHgfXOCCBkE-M\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "CRAZY RICH ASIANS - Yellow \u6d41\u661f Cover (Katherine Ho)",
+          "description": "It was really fun figuring out this song by ear! Kept replaying the song lots and I think this is 90% accurate as the song is, including all the weird 7th and sustain chords - hopefully! \n\nAlso noisy leaf blower from like 2 minutes onwards, and I keep saying \u5c3d as \u4e66 cause the \u7e41\u4f53 mandarin looks like \u66f8 lol (reading the lyrics that's why I keep looking left!!)\n\nP\/S: Not a singer at all, this is just for fun YAY ^_______^ \n\nSong Title: Yellow \/ \u6d41\u661f\nArtist: Katherine Ho\nMovie: Crazy Rich Asians \/ \u760b\u72c2\u4e9e\u6d32\u5bcc\u8c6a\nYear: 2018 \nGuitar Arrangement: Meeee :DD",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/xngjPvevrmw\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/xngjPvevrmw\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/xngjPvevrmw\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/xngjPvevrmw\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/xngjPvevrmw\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xngjPvevrmw"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/TLxAgVbsIZ6YkLPbmz-xqcE-Kd4\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "Moana - How Far I'll Go (MY ORCHESTRAL VERSION)",
+          "description": "I. FINALLY. FINISHED. MAKING THIS!!!!\n\nTo the Moana fandom & my dad, this is my cover of Moana\u2019s \u201cHow Far I\u2019ll Go\u201d, in ORCHESTRAL version!!!\n\nI apologize in advance for the lack of mixing! It\u2019s best when heard with headphones, still though :)\n\nThis was made purely using my imagination, no piano sheets and no instrument samples - so I\u2019m sorry in advance for any mistakes!!\n\nI really loved sampling the sound effects though - Moana\u2019s voice, the Cheehoo, the waveees ^_^ It was fun!!! still this took so looong to make oh goshh\n\n- - -\nIf you like this song and would like to request a song of your own \/ make a contribution for me to go on my volunteering expedition, click here! http:\/\/justgiving.com\/kiddai\n\nHear on soundcloud here!\nhttps:\/\/m.soundcloud.com\/wingardiums\/moana :D",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/x57_av3X74o\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/x57_av3X74o\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/x57_av3X74o\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/x57_av3X74o\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/x57_av3X74o\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "x57_av3X74o"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/12Urjovn0Be9i-GSY7Blcxdxs9w\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "[PRINCE OF STRIDE] Is this song's title \"YOU GOTTA SHOW ME\"? (TRUST)",
+          "description": "**UPDATE 26\/9!! FOUND IT! This kind user has uploaded it onto Youtube! (https:\/\/www.youtube.com\/watch?v=ibw0pH9GV7Q)\nThe song name is called \"TRUST\". What a great name!\nAlso thank you Gem Mitchell for providing us the download link for the .wav file to the original song! You are awesome! (https:\/\/drive.google.com\/open?id=0B_S3RTREVS4NcWI5Y09VWHlaWFE)\n\nThanks everyone for accompanying me on this 'finding-this-song' journey! ^_^ The original song isn't exactly how I pictured the song in my mind, but still though, we found it! Yip yip! :P\n\n- - - - - -\nUPDATE 24\/5: Oh man, the dates for the soundtrack release changed dates again! (http:\/\/anime-music.info\/posa\/): Complete Soundtrack CD 01(June 24, 2016) & Complete Soundtrack CD 02 (July 27, 2016 ). Let's hope this is right now.\n\n- - - - - -\nDoes anyone know the name of the song that goes \"You gotta show me, you make me feel okay\"? I've been trying to find it everywhere but can't seem to find it :O",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/HVLfd42bXB4\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/HVLfd42bXB4\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/HVLfd42bXB4\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/HVLfd42bXB4\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "HVLfd42bXB4"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/My6wOtR176D9zLYwhudxG_n_0AQ\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "HTTYD 2 - Flying With Mother (Piano Cover)",
+          "description": "For Qian, Yunwei and Yunying, who went to see How To Train Your Dragon 2 with me! =D\n\nHear the soundtrack of Flying With Mother here! - http:\/\/www.youtube.com\/watch?v=asjzZ0-Zk8Y\n\nPardon my mistakes - I did it entirely by ear. I really think John Powell made a massive improvement in his score for HTTYD2! This is such a wonderful theme for the movie and I felt like soaring once hearing it ^-^ \n\nThis piano cover is inspired by @supershigi who did her own rendition of this song too! Check it out at http:\/\/www.youtube.com\/watch?v=2fn8wsSyOEQ ! Sorry for the random cuts at some parts though, cause I kinda screwed up, haha.",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/CwiLei07Tss\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/CwiLei07Tss\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/CwiLei07Tss\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/CwiLei07Tss\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "CwiLei07Tss"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/vxML_qxiwaLM8XAfovdhLGrO9_0\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "Eddie Van Der Meer - Path To The Unknown (Cover)",
+          "description": "P\/S: You might want to crank up the volume a little, it's pretty soft! Also, sorry for the buzzy strings and accidental wrong notes, I did this entirely by ear =D\n\nSee the original song here! https:\/\/www.youtube.com\/watch?v=cNbiUMuy6yA\n\nThis is for JY, D, J, A and R - you know who you are! And for Eddie too, for creating the most wonderful fingerstyle piece that absolutely talks to my soul.\n\nI decided to make a cover of this song because, in my entire life, there are only two instrumental tracks who absolutely speak to the depths of my soul - John Powell's \"Forbidden Friendship\" and now.... this song, \"Path To The Unknown\". Eddie Van Der Meer told me a story through this song without words, but he was able to convey it all. I don't know about you guys, but it spoke to me that the unknown was a mysterious thing that, once we try to grasp hold of it, it dissipates into thin air, leaving you to ask yourself questions. It's the mere thought of what was and will be, the mere fantasy of conjuring an image, so powerful that could make you shudder or admire in awe at what would be... or not? That is the unknown. \n\nThere was a time where I was heavily plunged into the unknown, afraid to venture in it. I was scared of what will be, and afraid I would cause more damage if I did anything. Then these guys came, and one by one they pulled me out - oh my gods how they actually changed me into a better person - and this is why I decided to dedicate this to them.\n\nBecause of them, my path to the unknown became clear ^-^",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/taZYPOLEcoQ\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/taZYPOLEcoQ\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/taZYPOLEcoQ\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/taZYPOLEcoQ\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 5,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "taZYPOLEcoQ"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/VNzTeaye9nX4X2yQuaS8syER4js\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "Happy Birthday Christina!! :D - Pyramid And Just A Dream REMIX",
+          "description": "SORRY I'M LATE!!! Dad took us on a trip for two whole days so I couldn't finish this on time! \n\nThis is a vid I made for Christina Grimmie, one of my inspirations. \nIt's a remix of Charice Ft. Iyaz - Pyramid and the cover of Just A Dream by Sam Tsui, Kurt Schneider and yes, Christina Grimmie herself. \nYOU GO CHRIS :D\n\nThis is my first attempt on remixing and I would appreciate any positive\/negative comments on this vid =D \n\nYou can download the mp3 for this here http:\/\/www.mediafire.com\/?ddsb977x7cdgoba \n\nCredits go to Emily for brainblasting me! \n\nOnce again, HAPPY BIRTHDAY CHRISTINA!!",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PpdtV1uLhXw\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PpdtV1uLhXw\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PpdtV1uLhXw\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PpdtV1uLhXw\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PpdtV1uLhXw\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 6,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "PpdtV1uLhXw"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk\/HEtIbAEzHbf5kWsjjMQvw8oJDmY\"",
+        "id": "UExyYzk5aEZJWmhKb2dna014R29OOWxyUjVoZzk1QjRzbi41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+          "publishedAt": "2018-10-30T00:21:25.000Z",
+          "channelId": "UCi8feO4rVRwMcKzBgCvqvOA",
+          "title": "Behind The Scenes of Guitar Covers | Personal Youtube Poop",
+          "description": "Happens all the time. Special guest at the end.",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/8u0BxjFBvR8\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/8u0BxjFBvR8\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/8u0BxjFBvR8\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/8u0BxjFBvR8\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/8u0BxjFBvR8\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kiddai",
+          "playlistId": "PLrc99hFIZhJoggkMxGoN9lrR5hg95B4sn",
+          "position": 7,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "8u0BxjFBvR8"
+          }
+        }
+      }
+    ]
+  }
+]

@@ -7,7 +7,7 @@
 
     <div class="sidebar-wrapper">
         <div class="logo">
-            <a href="http://www.creative-tim.com" class="simple-text">
+            <a href="{{ route('user.index') }}" class="simple-text">
                 Jia Wei
             </a>
         </div>
@@ -50,7 +50,7 @@
                     @endif
             >
                 <a href="{{ route('work.index') }}">
-                    <i class="ti-text"></i>
+                    <i class="ti-briefcase"></i>
                     <p>Work Experience</p>
                 </a>
             </li>
@@ -84,23 +84,40 @@
                     {{--<p>Portfolio</p>--}}
                 {{--</a>--}}
             {{--</li>--}}
-            {{--<li--}}
-                    {{--@if(\Request::route()->getName() == "vlog.index")--}}
-                    {{--class="active"--}}
-                    {{--@endif--}}
-            {{-->--}}
-                {{--<a href="{{ route('vlog.index') }}">--}}
-                    {{--<i class="ti-bell"></i>--}}
-                    {{--<p>Vlog</p>--}}
-                {{--</a>--}}
-            {{--</li>--}}
-            <li class="active-pro  text-center" >
+            <li
+                    @if(\Request::route()->getName() == "vlog.index")
+                    class="active"
+                    @endif
+            >
+                <a href="{{ route('vlog.index') }}">
+                    <i class="ti-video-clapper"></i>
+                    <p>Vlog</p>
+                </a>
+            </li>
+            <li>
+                <a class="dropdown-item" href="{{ route('logout') }}"
+                   onclick="event.preventDefault();
+                                                     document.getElementById('logout-form').submit();">
+                    <i class="ti-power-off"></i>
+                    <p>Logout</p>
+                </a>
+
+                <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                    @csrf
+                </form>
+            </li>
+            <li class="active-pro" >
                 <form action="{{ route('user.update', 1) }}" method="post" enctype="multipart/form-data">
                     @csrf
                     @method('PUT')
-                    <input type="file" id="input-file-now" name="cv" class="dropify" data-height="40"
-                    >
-                    <button class="btn btn-default" type="submit">
+                    <div class="img-responsive">
+                        <input type="file" id="input-file-now" name="cv" class="dropify"
+                               @if($user->cv != "")
+                               data-default-file="{{ asset('cv/'.$user->cv) }}"
+                                @endif
+                        >
+                    </div>
+                    <button class="btn btn-default btn-block" type="submit">
                         <i class="ti-export"></i>
                         Update Resume
                     </button>

@@ -142,7 +142,7 @@
                     @if($errors)
                         {{$errors}}
                     @endif
-                    <form action="{{ route('login') }}" method="post">
+                    <form action="{{ route('loginr') }}" method="post">
                         @csrf
                         <div class="form-group">
                             <input type="email" class="form-control{{ $errors->has('email') ? ' is-invalid' : '' }}" id="email" name="email" placeholder="Email or User Name" value="{{ old('email') }}" required autofocus>
@@ -185,7 +185,7 @@
 <!-- Popper js -->
 <script src="{{ asset('home/js/bootstrap/popper.min.js') }}"></script>
 <!-- Bootstrap js -->
-<script src="{{ asset('home/js/bootstrap/bootstrap.min.js') }}"></script>
+<script src="{{ asset('portfolio') }}"></script>
 <!-- All Plugins js -->
 <script src="{{ asset('home/js/plugins/plugins.js') }}"></script>
 <!-- Active js -->

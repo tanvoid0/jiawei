@@ -20,7 +20,7 @@
                                     <div class="col-lg-6 col-lg-offset-3 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
                                         <div class="form-group">
                                             <label>Channel ID</label>
-                                            <input type="text" class="form-control border-input" placeholder="Vlog link (e.g: Extrovert)" value="{{ $vlog->title }}" name="link" required>
+                                            <input type="text" class="form-control border-input" placeholder="Playlist ID (e.g. PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2)" value="{{ $vlog->link }}" name="link" required>
                                         </div>
                                     </div>
 

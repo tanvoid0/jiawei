@@ -303,7 +303,7 @@
 
                     <div class="tab-pane fade" id="post-7" role="tabpanel" aria-labelledby="post-7-tab">
                         <!-- Single Feature Post -->
-                        <div class="single-feature-post video-post bg-img" style="background-image: url({{ asset('home/img/bg-img/7.jpg') }});">
+                        <div class="single-feature-post video-post bg-img" style="background-image: url({{ asset('portfolio') }});">
                             <!-- Play Button -->
                             <a href="video-post.html" class="btn play-btn"><i class="fa fa-play" aria-hidden="true"></i></a>
 
@@ -598,7 +598,7 @@
 <!-- Popper js -->
 <script src="{{ asset('home/js/bootstrap/popper.min.js') }}"></script>
 <!-- Bootstrap js -->
-<script src="{{ asset('home/js/bootstrap/bootstrap.min.js') }}"></script>
+<script src="{{ asset('portfolio') }}"></script>
 <!-- All Plugins js -->
 <script src="{{ asset('home/js/plugins/plugins.js') }}"></script>
 <!-- Active js -->

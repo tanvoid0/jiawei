@@ -11,7 +11,7 @@
                         <form action="{{ route('user.update', 1) }}" method="post" enctype="multipart/form-data">
                             @csrf
                             @method('PUT')
-                            <div class="image" style="width: 200px;">
+                            <div class="image-container">
                                 <input type="file" id="image" name="image" class="dropify"
                                        @if($user->image != "")
                                        data-default-file="{{ asset('img/user/'.$user->image) }}"

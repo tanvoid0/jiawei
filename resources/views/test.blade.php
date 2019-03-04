@@ -6,4 +6,4 @@
         {{--</div>--}}
     {{--@endif--}}
 {{--@endforeach--}}
-@php(var_dump(json_encode($vlogs->items)))
+@php(var_dump(json_encode($channel->items)))

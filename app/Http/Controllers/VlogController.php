@@ -7,20 +7,23 @@ use Illuminate\Http\Request;
 
 class VlogController extends Controller
 {
-     function youtube(){
-         $API_key = "AIzaSyAhcCeAbG-c04lF2LNwGsJkP2sR5SzJ-w8";
-         $channelID = "UC1d_rmS5S0Y59dIOzL0Px5Q";
-         $maxResults = 10;
-         $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId='.$channelID.'&maxResults='.$maxResults.'&key='.$API_key.''));
-         return $videoList;
+    static function  youtube($playlist_id){
+        $API_key = "AIzaSyAhcCeAbG-c04lF2LNwGsJkP2sR5SzJ-w8";
+//        $playlist_id =  'PLrc99hFIZhJpb1Hhl-Nif6LtnHSNlk1p2';
+        $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=25&playlistId='. $playlist_id . '&key=' . $API_key));
+        return $videoList;
     }
 
     public function index()
     {
-        $vlogs = $this->youtube();
-        return $vlogs;
-//        return view('test', compact('vlogs'));
-        return view('admin.vlog.index', compact('vlogs'));
+        $vlogs = Vlog::all();
+        $playlists = [];
+        $i = 0;
+        foreach($vlogs as $vlog){
+            $playlists[$i] = $this->youtube($vlog->link);
+            $i++;
+        }
+        return view('admin.vlog.index', compact('vlogs', 'playlists'));
     }
 
     public function create()
@@ -31,15 +34,15 @@ class VlogController extends Controller
     public function store(Request $request)
     {
         $vlog = new Vlog;
-        $vlog->title = $request->title;
-        $vlog->description = $request->description;
+        $vlog->link = $request->link;
         $vlog->save();
         return redirect(route('vlog.index'));
     }
 
-    public function show(vlog $vlog)
+    public function show($id)
     {
-        //
+        $videos = $this->youtube(Vlog::find($id)->link);
+        return view('admin.vlog.show', compact('videos'));
     }
 
     public function edit($id)
@@ -51,8 +54,7 @@ class VlogController extends Controller
     public function update(Request $request, $id)
     {
         $vlog = Vlog::find($id);
-        $vlog->title = $request->title;
-        $vlog->description = $request->description;
+        $vlog->link = $request->link;
         $vlog->save();
         return redirect(route('vlog.index'));
     }
