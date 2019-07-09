@@ -16,10 +16,10 @@ class CreateWorksTable extends Migration
         Schema::create('works', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('title');
-            $table->string('company');
-            $table->string('address');
-            $table->integer('start');
-            $table->integer('end');
+            $table->string('company')->nullable();
+            $table->string('address')->nullable();
+            $table->integer('start')->nullable();
+            $table->integer('end')->nullable();
             $table->timestamps();
         });
     }

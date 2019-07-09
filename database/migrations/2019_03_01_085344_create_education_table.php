@@ -15,10 +15,10 @@ class CreateEducationTable extends Migration
     {
         Schema::create('education', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->string('degree');
-            $table->string('institution');
-            $table->string('address');
-            $table->integer('start');
+            $table->string('degree')->nullable();
+            $table->string('institution')->nullable();
+            $table->string('address')->nullable();
+            $table->integer('start')->nullable();
             $table->integer('end')->nullable();
             $table->timestamps();
         });
