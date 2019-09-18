@@ -18,6 +18,7 @@
                                 <tr><th>ID</th>
                                     <th>Thumbnail</th>
                                     <th>ID</th>
+                                    <th>Title</th>
                                     <th>Control</th>
                                 </tr></thead>
                                 <tbody>
@@ -32,6 +33,7 @@
                                         <td>
                                             {{ $vlog->link }}
                                         </td>
+                                        <td>{{ $playlists[$i-1]->items[0]->snippet->title }}</td>
                                         <td>
                                             <a href="{{ route('vlog.show', $vlog->id) }}"><i class="ti-video-clapper btn btn-success"></i></a>
                                             <a href="{{ route('vlog.edit', $vlog->id) }}"><i class="ti-pencil btn btn-info"></i></a>

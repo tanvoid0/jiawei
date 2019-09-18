@@ -183,10 +183,12 @@
                 </div>
             </div>
             @foreach($playlists as $vlog)
-            <div class="row">
+                @php($i=1)
+                <div class="row">
                 <div class="col-md-12">
                     <div class="section-title">
-                        <h3>Playlists #</h3>
+                        <h3>Playlist {{ $i.": ". $playlists[$i-1]->items[0]->snippet->title }}</h3>
+                        @php($i++)
                     </div>
                 </div>
             </div>
@@ -257,6 +259,7 @@
                 @endforeach
                     <br>
             </div>
+
             @endforeach
             <!-- /.row -->
         </div>
